@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510393091413",
+    "firebase_url": "https://letstalk-messaging-app.firebaseio.com",
+    "project_id": "letstalk-messaging-app",
+    "storage_bucket": "letstalk-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510393091413:android:7a6828b19308a3b53bdbdc",
+        "android_client_info": {
+          "package_name": "com.jhagdu.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510393091413-a8stuc10rf01td0bksb0qe73jfqpcmod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhagdu.letstalk",
+            "certificate_hash": "35d9faf2b1f45aaa2c90c05f8c7d758bcc82d621"
+          }
+        },
+        {
+          "client_id": "510393091413-lu22eqmrh6t67p57164uku01mopj4o6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "-------Add Your API Key Here-------"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510393091413-lu22eqmrh6t67p57164uku01mopj4o6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
