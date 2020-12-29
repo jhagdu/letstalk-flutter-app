@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.4\\
+cloud_firestore_web=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.1+2\\
+firebase_auth=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.4+1\\
+firebase_auth_web=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.2+3\\
+firebase_core=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.3\\
+firebase_core_web=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.1+1\\
+firebase_storage=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-5.2.0\\
+firebase_storage_web=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage_web-0.1.1+1\\
+flutter_plugin_android_lifecycle=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.11\\
+geolocator=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-6.1.13\\
+google_maps_flutter=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-0.5.33\\
+image_picker=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+17\\
+path_provider_linux=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+2\\
+path_provider_windows=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_windows-0.0.4+3\\
+shared_preferences=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.12+4\\
+shared_preferences_linux=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_linux-0.0.2+4\\
+shared_preferences_macos=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+11\\
+shared_preferences_web=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+7\\
+shared_preferences_windows=D:\\Installations\\Flutter\\Flutter\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_windows-0.0.1+3\\
