@@ -1,6 +1,6 @@
 # Let's Talk - Flutter Chatting App
 This repo contains the Flutter Project of Let's Talk Chatting App  
-In this chatting app we can connect to users accross the globe and chat with them. We can also send Photos and Location. 
+In this chatting app we can connect to users accross the globe and chat with them. We can also send Photos and Location.   
 App also have some more functionalities like -
 - Add Profile Picture
 - Adding Users to Favourites
@@ -27,18 +27,24 @@ Now App is ready to run -
 - If you are using VSCode, then you can Directly run it using Run without Debugging  
 - If you are not using VSCode, So you can run it using "flutter run" command  
 
-# dependencies :- 
-Also replace your pubspec.yaml file with mine or Go to your pubspec.yaml file and then write these dependencies there.  
+# Pub Package Dependencies :- 
 - cupertino_icons: ^1.0.0
-- cloud_firestore: ^0.14.0+2
-- firebase_core: ^0.5.0
-- firebase_auth: ^0.18.0+1
-- firebase_storage: ^4.0.1
+- cloud_firestore: ^0.14.4
+- firebase_core: ^0.5.3
+- firebase_auth: ^0.18.4+1
+- shared_preferences: ^0.5.12+4
+- sliding_up_panel: ^1.0.2
+- after_layout: ^1.0.7+2
+- getwidget: ^1.2.4
 - sleek_circular_slider: ^1.2.0+web
+- image_picker: ^0.6.7+15
+- firebase_storage: ^5.2.0
 - animated_size_and_fade: ^1.1.3
-- google_maps_flutter: ^1.0.6
+- flutter_launcher_icons: ^0.8.0
+- google_maps_flutter: ^0.5.33
 - geolocator: ^6.1.5
 - http: ^0.12.2
+- photo_view: ^0.10.3
   
 # Links :-  
 YouTube Video :- (Coming Soon)  
