@@ -2,6 +2,7 @@
 This repo contains the Flutter Project of Let's Talk Chatting App  
 In this chatting app we can connect to users accross the globe and chat with them. We can also send Photos and Location.   
 App also have some more functionalities like -
+- Read/Unread Mark
 - Add Profile Picture
 - Adding Users to Favourites
 - Like the recieved Message
@@ -9,25 +10,27 @@ App also have some more functionalities like -
 - Block User
 - Delete Chat
 
-# APK of App   
+# APK   
 Simply Download the Apk from this git repo, then install and use it
     
   
 # For further development  
-# Pre-requisite :-   
-Flutter should be installed and configured in your system  
-As app uses Google Firebase as a Backend so Google Firebase account should be set up  
+## Pre-requisite :-   
+- Flutter should be installed and configured in your system  
+- As app uses Google Firebase as a Backend so Google Firebase account should be set up  
 
-# How to start :-  
-Clone the Repo 
-As this app is using firestore, so for full functionality of the app you have to connect this with firestore  
-
-# Run App :-  
+## How to start :-  
+- Clone the Repository  
+- Register new Android App in Google Firebase, Replace this /android/app/google-services.json file with yours  
+- Replace org name with yours in android/app/src/main/AndroidManifest.xml  
+- Also Put your Google Maps API Key in android/app/src/main/AndroidManifest.xml  
+  
+## Run App :-  
 Now App is ready to run -   
 - If you are using VSCode, then you can Directly run it using Run without Debugging  
 - If you are not using VSCode, So you can run it using "flutter run" command  
 
-# Pub Package Dependencies :- 
+## Pub Package Dependencies :- 
 - cupertino_icons: ^1.0.0
 - cloud_firestore: ^0.14.4
 - firebase_core: ^0.5.3
@@ -50,4 +53,4 @@ Now App is ready to run -
 YouTube Video :- (Coming Soon)  
 Article :- (Coming Soon)  
 
-Feel free to Contact me for any issue!! (Linkedin - Profile URL)
+Feel free to Contact for any issue!! (Linkedin - www.linkedin.com/in/amanjhagrolia143)
