@@ -1,14 +1,13 @@
 # Let's Talk - Flutter Chatting App
 This repo contains the Flutter Project of Let's Talk Chatting App  
-In this chatting app we can connect to users accross the globe and chat with them. We can also send Photos and Location.   
-App also have some more functionalities like -
-- Read/Unread Mark
-- Add Profile Picture
-- Adding Users to Favourites
-- Like the recieved Message
-- Update Mobile Number (Visibility Public and Private Both)
-- Block User
-- Delete Chat
+In the Let’s Talk chatting app, Along with Sending Messages, few additional features are also added for better user experience -  
+- Send Photos  
+- Share Location   
+- React with ❤ on the Received Messages   
+- Read/Unread status of the message (i.e. Blue Tick)  
+- Add user to favourites   
+- Deleting chat  
+- Blocking a user  
 
 # APK   
 Simply Download the Apk from this git repo, then install and use it
