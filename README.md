@@ -48,7 +48,7 @@ Now App is ready to run -
 - photo_view: ^0.10.3
   
 # Links :-  
-YouTube Video :- (Coming Soon)  
-Article :- (Coming Soon)  
+YouTube Video :-  https://youtu.be/2_Tme9wRJ0g 
+Article :- amanjhagrolia.medium.com/lets-talk-flutter-chatting-app-d628703848fe  
 
 Feel free to Contact for any issue!! (Linkedin - www.linkedin.com/in/amanjhagrolia143)
