@@ -1,5 +1,4 @@
 # Let's Talk - Flutter Chatting App
-This repo contains the Flutter Project of Let's Talk Chatting App  
 In the Let’s Talk chatting app, Along with Sending Messages, few additional features are also added for better user experience -  
 - Send Photos  
 - Share Location   
