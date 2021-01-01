@@ -49,6 +49,6 @@ Now App is ready to run -
   
 # Links :-  
 YouTube Video :-  https://youtu.be/2_Tme9wRJ0g   
-Article :- amanjhagrolia.medium.com/lets-talk-flutter-chatting-app-d628703848fe  
+Article :- https://amanjhagrolia.medium.com/lets-talk-flutter-chatting-app-d628703848fe   
 
 Feel free to Contact for any issue!! (Linkedin - www.linkedin.com/in/amanjhagrolia143)
